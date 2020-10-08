@@ -9,3 +9,7 @@
   "author": "aniss",
   "license": "MIT"
 }
+
+"scripts": {
+  "test": "echo 'Hello World!'"
+}
